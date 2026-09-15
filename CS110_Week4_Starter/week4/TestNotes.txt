@@ -1,0 +1,22 @@
+Week 4 experiments
+Pathway:my story
+Website / 3D page:
+
+Experiment
+What I expected:i expected it to not work and break
+File and code/value I changed:i changed the position from 1 to 3 
+What I observed (or exact error): i observed that the sphere had moved up into the air and had change positions from being on the ground nd on a platform to in the air above the platfrom
+What I kept, restored, or corrected:the origanal model was kept and not changed the only thing changed/replaced was the position 
+My next test:try and change the model of it and change the item to like a bird or a disc.
+
+Changes I made: the height change and the positions
+
+Future tests and ideas:
+
+Final checks
+Website -> 3D page -> website:
+Scene and description agree:
+Narrow and wide layout:
+Keyboard navigation:
+Console errors / unresolved issues:
+Peer observation and correction:
